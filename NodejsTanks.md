@@ -40,9 +40,9 @@ Here's a list of the tasks:
 	- We had to decide what we wanted the tanks to look like
 	- We needed to determine how we would accomplish the multiplayer aspect of the 	project
 	- We need to learn how to use sockets and node.js.
-	- We needed to be conscious of what the user needed to know from the server versus 	what the server needed to know.
+	- We needed to be conscious of what the user needed to know from the server versus what the server needed to know.
 	- The development and handling of projectiles and their collisions.
-	- We needed to figure out a way to get rid of a projectile anytime it went out of 	bounds or collided with a player
+	- We needed to figure out a way to get rid of a projectile anytime it went out of bounds or collided with a player
   
 Below I go into more depth on the process behind completing each task:
 
