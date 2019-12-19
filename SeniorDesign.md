@@ -13,19 +13,19 @@ We divided work on the codebase into multiple categories. The digital effect fun
 
 ```markdown
 ![Block Diagram]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/block diagram.jpg)
+(https://github.com/calebhendrickson/calebhendrickson.github.io/master/block diagram.jpg)
 
 ![GUI]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/gui.png)
+(https://github.com/calebhendrickson/calebhendrickson.github.io/master/gui.png)
 
 ![Enclosure]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/enclosure.png)
+(https://github.com/calebhendrickson/calebhendrickson.github.io/master/enclosure.png)
 
 ![Design]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/Design.PNG)
+(https://github.com/calebhendrickson/calebhendrickson.github.io/master/Design.PNG)
 
 ![Final Project Poster]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/Project Poster.pdf)
+(https://github.com/calebhendrickson/calebhendrickson.github.io/master/Project Poster.pdf)
 
 ![Demo]
 ()
@@ -50,31 +50,31 @@ We divided work on the codebase into multiple categories. The digital effect fun
 
 I learned many digital signal processing concepts:
 
--Audio Signal Sampling
+  -Audio Signal Sampling
 
--Fourier Transforms
+  -Fourier Transforms
 
--The Frequency Spectrum
+  -The Frequency Spectrum
 
--Convolution
+  -Convolution
 
--Difference Equations
+  -Difference Equations
 
--Bandwidth/Transition Band
+  -Bandwidth/Transition Band
 
--Audio Routing
+  -Audio Routing
 
 These concepts are generally considered to be electrical engineering concepts which, before this project, I had absolutely no experience in. Nonetheless, I am proud of myself for being able to succeed in taking on the challenge and self-teach along the way.
 
 However, I probably gained more experience working in a team. There was also a lot of non-technical knowledge gained during the course of this project. Key areas would be leadership, communication, dealing with design changes, research, testing, and accontability. Examples lessons learned about good practice in these arreas would include:  
 
--Prompt and clear communication(makes everyone's lives easier)
+  -Prompt and clear communication(makes everyone's lives easier)
 
--Thorough research makes development and implementation easier, it mitigates the 	likeliness of design changes
+  -Thorough research makes development and implementation easier, it mitigates the 	likeliness of design changes
 
--Accountablity to deadlines is critical because once you fall behind, you open the 	door to falling more behind and a non-finished product.
+  -Accountablity to deadlines is critical because once you fall behind, you open the 	door to falling more behind and a non-       finished product.
 
--Leading the team forward when no one else is encouraging the team to work on 	their respective tasks.
+  -Leading the team forward when no one else is encouraging the team to work on 	their respective tasks.
 
 
 
