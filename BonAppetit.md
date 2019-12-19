@@ -13,7 +13,7 @@ We began with an idea which we extended to screen sketches to show a general ide
 ```markdown
 The Home Screen of the Application:
 ```
-![](BonAppetit-pics/BonAppetitHomeScreen.png)
+![](BonAppetit-pics/BonAppetitHomeScreen.PNG)
 
 
 ```markdown
