@@ -3,9 +3,13 @@
 You can use the [editor on GitHub](https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 [Senior Design Project](SeniorDesign.md)
+
 [Bon Appetit Android Application](BonAppetit.md)
+
 [Personal e-Commerce Project](eStore.md)
+
 [Social Media Event Web Application](goGetters.md)
+
 [In-browser Tanks Game](NodejsTanks.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
