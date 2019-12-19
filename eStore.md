@@ -71,7 +71,7 @@ Add Product:
 
 ### Lessons Learned / Skills & Knowledge Gained
 
-I gained firsthand experience to many aspects of Full-stack development. 
+I gained firsthand experience in many aspects of Full-stack development. 
 
 The process of starting a project from scratch that encompasses so many different components was something that I underestimated. This required a great deal of thought and planning in the beginning stages of development. I decided that I wanted to develop using one of the MERN, MEVN, or MEAN stacks because of their wide use and popularity. I figured that learning one of these stacks would be very applicable to future projects. One of the futures of the design of the website that I was excited about was the fact that I would be creating a single page application. I wanted to make sure that my development choices and specified requirements were chosen with the goal of elevating user experience. I knew a single page application would mitigate interruptions and elevate user experience. With my primary goal determined, I decided that I wanted to take the most efficient path to that goal considering what research I had done. Because of this I decided a good framework to use for this with a small learning curve would be Vue,js.
 
