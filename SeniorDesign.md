@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Back Home](https://github.com/calebhendrickson/calebhendrickson.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Back Home](README.md) to maintain and preview the content for your website in Markdown files.
 
 
 
