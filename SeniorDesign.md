@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Senior Design Project
 
-[Back Home](README.md) to maintain and preview the content for your website in Markdown files.
+[Back Home](README.md)
 
 
 
