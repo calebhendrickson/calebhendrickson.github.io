@@ -10,24 +10,38 @@ For my senior design project, my team had the task of developing a multi-effect 
 
 We divided work on the codebase into multiple categories. The digital effect functions, audio routing, and the communication with the GUI. I had full responsibility of the creation of all of the effect functions and a good portion of the audio routing. This entailed setting up an audio server with the correct settings, which was done using the Jack routing utility to establish capture ports on the USB interface where the guitar would be plugged in. These ports were routed to an input port on a Raspberry Pi via the Jack server where the Jack client could interact and manipulate the audio signal. The transformation of the audio signal was determined by the parameters received from the GUI interface. The code for the audio effects making the transformation to the signal were gathered from Audio Effects: Theory, Implementation, and Application by Andrew McPherson and Joshua Reiss and from Digital Audio Effects, & a document from the Stanford Center for Computer Research in Music and Acoustics. After this transformation was complete, the audio signal was copied to an output port where the Jack server could route the signal to the broadcast ports on the USB interface allowing  for the altered signal to be broadcasted via speakers.
 
+```markdown
+The High Level Block Diagram for our Project:
+```
 ![](SeniorDesignPics/blockdiagram.jpg)
 
+
 ```markdown
+The GUI design for our Project:
+```
+![](SeniorDesignPics/gui.png)
 
-![GUI]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/master/gui.png)
 
-![Enclosure]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/master/enclosure.png)
+```markdown
+The Enclosure design for our Project:
+```
+![](SeniorDesignPics/enclosure.png)
 
-![Design]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/master/Design.PNG)
 
-![Final Project Poster]
-(https://github.com/calebhendrickson/calebhendrickson.github.io/master/Project Poster.pdf)
+```markdown
+The Design Approach for our Project:
+```
+![Design](SeniorDesignPics/Design.PNG)
 
-![Demo]
-()
+```markdown
+The Poster for our final Presentation of the Project:
+```
+![Final Project Poster](SeniorDesignPics/ProjectPoster.pdf)
+
+```markdown
+A Demo of the Project:
+```
+![Demo]()
 
 # Header 1
 ## Header 2
@@ -42,7 +56,6 @@ We divided work on the codebase into multiple categories. The digital effect fun
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 
 ### Lessons Learned / Skills & Knowledge Gained
