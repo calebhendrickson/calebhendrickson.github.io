@@ -12,7 +12,7 @@ We divided work on the codebase into multiple categories. The digital effect fun
 
 
 ```markdown
-![](block%20diagram.jpg)
+![](SeniorDesignPics/blockdiagram.jpg)
 
 ![GUI]
 (https://github.com/calebhendrickson/calebhendrickson.github.io/master/gui.png)
