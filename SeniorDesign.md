@@ -36,7 +36,7 @@ The Design Approach for our Project:
 ```markdown
 The Poster for our final Presentation of the Project:
 ```
-![Final Project Poster](SeniorDesignPics/ProjectPoster.pdf)
+![Final Project Poster](SeniorDesignPics/ProjectPoster_1.jpg)
 
 ```markdown
 A Demo of the Project:
@@ -62,19 +62,13 @@ A Demo of the Project:
 
 I learned many digital signal processing concepts:
 
-  -Audio Signal Sampling
-
-  -Fourier Transforms
-
-  -The Frequency Spectrum
-
-  -Convolution
-
-  -Difference Equations
-
-  -Bandwidth/Transition Band
-
-  -Audio Routing
+  - Audio Signal Sampling
+  - Fourier Transforms
+  - The Frequency Spectrum
+  - Convolution
+  - Difference Equations
+  - Bandwidth/Transition Band
+  - Audio Routing
 
 These concepts are generally considered to be electrical engineering concepts which, before this project, I had absolutely no experience in. Nonetheless, I am proud of myself for being able to succeed in taking on the challenge and self-teach along the way.
 
