@@ -1,4 +1,4 @@
-## Welcome Caleb Hendrickson's Portfolio
+## Welcome to Caleb Hendrickson's Portfolio
 
 ### Project List:
 
@@ -6,11 +6,11 @@
 
 [Bon Appetit Android Application](BonAppetit.md)
 
-[Personal e-Commerce Project](eStore.md)
+[Personal E-Commerce Project](eStore.md)
 
 [Social Media Event Web Application](goGetters.md)
 
-[In-browser Tanks Game](NodejsTanks.md)
+[In-Browser Tanks Game](NodejsTanks.md)
 
 ### View My LinkedIn Page
 
