@@ -17,12 +17,14 @@ Software Engineer
 - Passionate and determined to find a place to start my journey in the software industry– able to learn and think quickly to gain understanding of the task at hand and how to accomplish my objective. I take pride in my quality of work and I enjoy the sense of accomplishment that comes with genuine hard work. I am a dependable worker.
 
 Education:
+
 Iowa State University – Ames, IA
 Bachelor of Science in Software Engineering (BSSE), 12/19
 (Ranked top 10 in the country for Best Software Engineering Bachelor Program by collegechoice.net, schools.com, & bestcollegereviews.org)
 GPA: 2.25
 
 Skills:
+
 Languages: Node, JavaScript, Java, UNIX Shell, C, C++, SQL, Python
 Frameworks: Vue, React, Express
 APIs: Google Maps
