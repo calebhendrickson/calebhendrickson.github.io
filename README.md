@@ -12,13 +12,13 @@
 
 [In-Browser Tanks Game](NodejsTanks.md)
 
-### View My LinkedIn Page
+### View My LinkedIn Page:
 
 Interested in contacting or viewing more information about me? Visit my [LinkedIn](https://www.linkedin.com/in/caleb-neal-hendrickson/)
 
 Thank You!
 
-### Relevant Courses Completed
+### Relevant Courses Completed:
 
 Iowa State University is ranked No. 6 in the country for best Undergraduate Software Engineering Programs by several websites (collegechoice.net, schools.com, and bestcollegereviews.org). 
 Here's a look at some of the classes that I completed during my course work at Iowa State University:
