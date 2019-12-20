@@ -1,5 +1,9 @@
 ## Welcome to Caleb Hendrickson's Portfolio
 
+### Resume:
+
+[Resume](Resume_Caleb_Hendrickson.md)
+
 ### Project List:
 
 [Senior Design Project](SeniorDesign.md)
