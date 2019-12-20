@@ -12,6 +12,12 @@
 
 [In-browser Tanks Game](NodejsTanks.md)
 
+### View My LinkedIn Page
+
+Interested in contacting or viewing more information about me? Visit my [LinkedIn](https://www.linkedin.com/in/caleb-neal-hendrickson/)
+
+Thank You!
+
 ### Courses Completed
 
 Iowa State University is ranked No. 6 in the country for best Undergraduate Software Engineering Programs by several websites (collegechoice.net, schools.com, and bestcollegereviews.org). 
@@ -39,8 +45,6 @@ Here's a look at some of the classes that I completed during my course work at I
 - **SE 492 Senior Design Project II:** Second semester of a team design project experience. Emphasis on the successful implementation and demonstration of the design completed in S E 491 and the evaluation of project results. Technical writing of final project report; oral presentation of project achievements.  
 - **Com S 252 Linux Operating Essentials:** Introduction to installation, utilization, and administration of Linux systems. Topics include open-source software, package installation and management, shell programming and command-line utilities, process and service management, account management, network configuration, file sharing, interoperation with other computers and operating systems, automation, and system security. 
 
-### View My LinkedIn Page
+### Thanks Again
 
-Interested in contacting or viewing more information about me? Visit my [LinkedIn](https://www.linkedin.com/in/caleb-neal-hendrickson/)
-
-Thank You!
+Thank You Again for Viewing my Page!
