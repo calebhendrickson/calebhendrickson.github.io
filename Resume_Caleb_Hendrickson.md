@@ -6,11 +6,11 @@ ______________________________________________________________________________
 
 Software Engineer
 
-• Critical-thinking, creative, and personable software engineer finishing my senior year at Iowa State. Offering three years of university experience in the software development process, various software languages, and development tools. I have a strong interest in web development - I enjoy the problem solving, the continuous learning when encountering new problems, and the creative freedom that web development and software engineering offer.
+- Critical-thinking, creative, and personable software engineer finishing my senior year at Iowa State. Offering three years of university experience in the software development process, various software languages, and development tools. I have a strong interest in web development - I enjoy the problem solving, the continuous learning when encountering new problems, and the creative freedom that web development and software engineering offer.
 
-• Familiar with team atmosphere. Enjoy working with others to solve problems, and approaching such problems with a level headed approach. I find it important to use strong leadership, communication, and personability skills in a group-oriented work setting. 
+- Familiar with team atmosphere. Enjoy working with others to solve problems, and approaching such problems with a level headed approach. I find it important to use strong leadership, communication, and personability skills in a group-oriented work setting. 
 
-• Passionate and determined to find a place to start my journey in the software industry– able to learn and think quickly to gain understanding of the task at hand and how to accomplish my objective. I take pride in my quality of work and I enjoy the sense of accomplishment that comes with genuine hard work. I am a dependable worker.
+- Passionate and determined to find a place to start my journey in the software industry– able to learn and think quickly to gain understanding of the task at hand and how to accomplish my objective. I take pride in my quality of work and I enjoy the sense of accomplishment that comes with genuine hard work. I am a dependable worker.
 
 Education:
 Iowa State University – Ames, IA
