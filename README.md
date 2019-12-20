@@ -4,7 +4,7 @@
 
 [Senior Design Project](SeniorDesign.md)
 
-[Bon Appetit Android Application](BonAppetit.md)
+[Bon-Appetit Android Application](BonAppetit.md)
 
 [Personal E-Commerce Project](eStore.md)
 
