@@ -1,4 +1,4 @@
-## Personal e-Commerce Project
+## Personal E-Commerce Project
 
 [Back Home](README.md)
 
