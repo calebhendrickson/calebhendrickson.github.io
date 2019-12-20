@@ -2,7 +2,7 @@
 
 ### Resume:
 
-[Resume](Resume_Caleb_Hendrickson.md)
+[Caleb's Resume](Resume_Caleb_Hendrickson.md)
 
 ### Project List:
 
