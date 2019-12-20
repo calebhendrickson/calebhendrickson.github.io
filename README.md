@@ -18,7 +18,7 @@ Interested in contacting or viewing more information about me? Visit my [LinkedI
 
 Thank You!
 
-### Courses Completed
+### Relevant Courses Completed
 
 Iowa State University is ranked No. 6 in the country for best Undergraduate Software Engineering Programs by several websites (collegechoice.net, schools.com, and bestcollegereviews.org). 
 Here's a look at some of the classes that I completed during my course work at Iowa State University:
