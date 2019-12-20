@@ -1,7 +1,11 @@
 Caleb Hendrickson
 
-1021 North 22nd Street								                                     Phone: 515-408-3170
-Fort Dodge, Iowa 50501 					                                           Email: chendric@iastate.edu
+1021 North 22nd Street								                                    
+Fort Dodge, Iowa 50501 	
+
+Phone: 515-408-3170
+
+Email: chendric@iastate.edu
 ______________________________________________________________________________
 
 Software Engineer
