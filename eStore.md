@@ -67,7 +67,7 @@ Add Product:
 ```
 ![](MEVN_estore_pics/addproduct.PNG)
 
-
+Note: I did not include pictures of the Login/Registration Page because the template I used is not mine and is currently only being used to test Login/Registration functionalities. This component will be updated in the future.
 
 ### Lessons Learned / Skills & Knowledge Gained
 
