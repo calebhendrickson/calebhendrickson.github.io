@@ -44,11 +44,6 @@ The Poster for our final Presentation of the Project:
 ```
 ![Final Project Poster](SeniorDesignPics/ProjectPoster_1.jpg)
 
-```markdown
-A Demo of the Project:
-```
-[Demo](https://youtu.be/KdHss8cUgA8)
-
 
 ### Lessons Learned / Skills & Knowledge Gained
 
