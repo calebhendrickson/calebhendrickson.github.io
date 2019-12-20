@@ -14,6 +14,6 @@
 
 ### View My LinkedIn Page
 
-Interested in contacting or viewing more information about me? Visit my [LinkedIn Here](https://www.linkedin.com/in/caleb-neal-hendrickson/)
+Interested in contacting or viewing more information about me? Visit my [LinkedIn](https://www.linkedin.com/in/caleb-neal-hendrickson/)
 
 Thank You!
