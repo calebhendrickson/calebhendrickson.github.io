@@ -16,7 +16,9 @@
 
 [In-Browser Tanks Game](NodejsTanks.md)
 
-(Various other projects in my repository)
+[React Message Board Project](portfolio2.md)
+
+[Angular E-Commerce Project](portfolio3.md)
 
 ### View My LinkedIn Page:
 
