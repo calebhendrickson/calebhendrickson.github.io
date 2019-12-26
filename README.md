@@ -16,6 +16,8 @@
 
 [In-Browser Tanks Game](NodejsTanks.md)
 
+(Various other projects in my repository)
+
 ### View My LinkedIn Page:
 
 Interested in contacting or viewing more information about me? Visit my [LinkedIn](https://www.linkedin.com/in/caleb-neal-hendrickson/)
