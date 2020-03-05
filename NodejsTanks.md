@@ -50,7 +50,7 @@ When we were decided to use straight lines for projectiles instead of circles fo
 
 We had no experience with and were not taught sockets and node.js in class, the downside of this was that there was a learning curve to learning these technologies that took up a lot of development time in the beginning stages of the project. But in the end, this was a positive because it was actually a very rewarding experience to learn these technologies on our own.
 
-### What Went Wrong
+### What Went Well
 
 We used a lot of creativity and thought to implement the barrel rendering algorithm.
 
