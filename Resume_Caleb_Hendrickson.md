@@ -5,53 +5,47 @@ Fort Dodge, Iowa 50501
 
 Phone: 515-408-3170
 
-Email: chendric@iastate.edu
+Email: chendric0312@gmail.com
 ______________________________________________________________________________
 
 Software Engineer
 
-- Critical-thinking, creative, and personable software engineer finishing my senior year at Iowa State. Offering three years of university experience in the software development process, various software languages, and development tools. I have a strong interest in web development - I enjoy the problem solving, the continuous learning when encountering new problems, and the creative freedom that web development and software engineering offer.
-
-- Familiar with team atmosphere. Enjoy working with others to solve problems, and approaching such problems with a level headed approach. I find it important to use strong leadership, communication, and personability skills in a group-oriented work setting. 
-
-- Passionate and determined to find a place to start my journey in the software industry– able to learn and think quickly to gain understanding of the task at hand and how to accomplish my objective. I take pride in my quality of work and I enjoy the sense of accomplishment that comes with genuine hard work. I am a dependable worker.
+As a recent software engineering graduate, I am seeking a web development position with a company that values creativity, communication, & analytical/problem-solving skills. I want to put my best effort forth and contribute my skill sets for mutual benefit.
 
 Education:
 
 Iowa State University – Ames, IA
 Bachelor of Science in Software Engineering (BSSE), 12/19
-(Ranked top 10 in the country for Best Software Engineering Bachelor Program by collegechoice.net, schools.com, & bestcollegereviews.org)
-GPA: 2.25
+
+Projects:
+
+Developer for E-Commerce Store Web Application (Personal Project)
+•	Purpose: Hone my skills with MEAN and full-stack development
+•	User browses/adds product to a cart, users may also create a personal account
+•	Admin accounts can create, edit, and delete product listings from within the application.
+•	Deployed application using Heroku web hosting service, mLab’s cloud database service, and AWS s3’s object storage service
+
+Developer for Crypto Currency Trading Simulator Web Application (Personal Project)
+•	Purpose: Allow users to gain “experience” in the crypto market without spending real money
+•	ASP.NET Core MVC Web Application
+•	Applied skills using Postman, Entity Framework, SQL server & Hangfire. API calls to Alpha Vantage API to retrieve real-time data on crypto currency prices.
+•	Deployed using Docker, Google Cloud’s Kubernetes Engine, and a Google Cloud SQL instance.
+
+Lead Software Developer for Guitar Multi-Effects Pedal Device (Senior Project – Team of 6)
+•	Developed the effect functions and the audio routing for this project in C
+•	Thrived working in team environment using logical approaches to problem solving
+•	Required use of leadership and effective communication in group-oriented work setting
 
 Skills:
 
-Languages: Node, JavaScript, Java, UNIX Shell, C, C++, SQL, Python
-Frameworks: Vue, React, Express
-APIs: Google Maps
-Concepts: UML, Design Patterns, Agile, Scrum
-Tools: Android Studio, Git, Eclipse, Visual Studio, MySQL Workbench
-Networking: HTTP, HTML, XML, Apache, Volley
-Databases: MySQL, Firebase, MongoDB
+Languages: JavaScript, Java, C, C++, C#, SQL, HTML
+Frameworks: Angular, Express, ASP.NET Core
+Concepts: Agile, Scrum, Web APIs, JSON, REST, Object-Oriented Programming, Client-Server Architecture, Layered Architecture
+Tools: Git, Eclipse, Visual Studio, Node.js, Postman
+Databases: SQL Server, MongoDB
 
 Portfolio:
 https://github.com/calebhendrickson/calebhendrickson.github.io/blob/master/README.md
 
-Github: 
+Github Repositories: 
 https://github.com/calebhendrickson 
-
-Projects:
-
-- Front End Developer/Co-Lead Developer for “Go-Getters Social” Web Application (Team of 4 programmers)
-Location based Social Media Event Web-App designed with Vue, Node, Firebase, and HTML. Web Application that uses Google Maps API to locate other users and show posts of other users in the vicinity. Front-end designed with Vue, HTML. Back-end designed with Node, Firebase. Our software design process consisted of several Agile software development design methodologies. Spent one week as project manager.
-
-- Co-Developer for “Bon Appétit” Android Application (Team of 3 programmers)
-Recipe Book Android Application designed in Android Studio, with Java, XML, Volley, PHP, and MySQL.
-Created an Android Application that returns a list of various recipes from MySQL Database using PHP and Volley upon user request. Front-end designed with XML. Back-end designed with Java, PHP. Scheduled weekly team meetings and bi-weekly project evaluation meetings.
-
-- Solo Developer for E-Commerce Website (In-development)
-E-Commerce website designed using MEVN (MongoDB, Express, Vue, Node) Stack
-Created an e-commerce website where users can create an account to browse and shop for products. Includes XSS and CSRF protection. Website UI designed using Vue, HTML, and CSS. Back-end designed with Node, Express, and MongoDB was used for the database. Project began August 1, 2019 and still in development
-
-- Co-Developer for E-Commerce Website (Team of 2 programmers)
-E-Commerce website designed using HTML, Angular, Node, PHP, and MySQL
-Created an e-commerce website inspired by craigslist. Users can sign-up, view items, and buy items. Used Angular for front-end data-binding for model and view. PHP used on server side to communicate to a MySQL database.  
