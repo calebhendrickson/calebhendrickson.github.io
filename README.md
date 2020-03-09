@@ -6,17 +6,23 @@
 
 ### Project List:
 
-[Senior Design Project](SeniorDesign.md)
-
-[Bon-Appetit Android Application](BonAppetit.md)
+Projects done on my own time:
 
 [Personal E-Commerce Project](eStore.md)
+
+[Simple Static Anti Virus](AntiVirus.md)
+
+
+School-related Projects
+
+[Guitar Multi-Effects Pedal (Senior Design Project)](SeniorDesign.md)
+
+[Bon-Appetit Android Application](BonAppetit.md)
 
 [Social Media Event Web Application](goGetters.md)
 
 [In-Browser Tanks Game](NodejsTanks.md)
 
-[Simple Static Anti Virus](AntiVirus.md)
 
 ### View My LinkedIn Page:
 
