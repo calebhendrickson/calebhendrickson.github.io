@@ -15,6 +15,69 @@
  * You can visit this application at http://107.178.212.130:31077
 
 
+```markdown
+Home Page:
+```
+![](MEVN_estore_pics/homepage.PNG)
+
+
+```markdown
+Home Page (Adding to Cart):
+```
+![](MEVN_estore_pics/homepage_addtocart.PNG)
+
+
+```markdown
+Home Page (Removing From Cart):
+```
+![](MEVN_estore_pics/homepage_removecart.PNG)
+
+
+```markdown
+Cart Page:
+```
+![](MEVN_estore_pics/cartpage.PNG)
+
+```markdown
+Empty Cart:
+```
+![](MEVN_estore_pics/emptycart.PNG)
+
+```markdown
+Product Details Page:
+```
+![](MEVN_estore_pics/product_details.PNG)
+
+
+```markdown
+Account Page:
+```
+![](MEVN_estore_pics/account.PNG)
+
+
+```markdown
+Admin Page:
+```
+![](MEVN_estore_pics/admin.PNG)
+
+
+```markdown
+Show Product:
+```
+![](MEVN_estore_pics/showproduct.PNG)
+
+```markdown
+Edit Product:
+```
+![](MEVN_estore_pics/editproduct.PNG)
+
+```markdown
+Add Product:
+```
+![](MEVN_estore_pics/addproduct.PNG)
+
+
+
 ## Background
 
 Immediately after completing my MEAN stack E-Commerce project, I debated between iterating on development features to really polish off the newly finished application, or creating another web application that used the ASP.NET Core framework.
