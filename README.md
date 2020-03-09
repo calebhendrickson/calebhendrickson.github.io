@@ -6,14 +6,14 @@
 
 ### Project List:
 
-Projects done on my own time:
+#### Projects done on my own time:
 
 [Personal E-Commerce Project](eStore.md)
 
 [Simple Static Anti Virus](AntiVirus.md)
 
 
-School-related Projects
+#### School-Related Projects:
 
 [Guitar Multi-Effects Pedal (Senior Design Project)](SeniorDesign.md)
 
