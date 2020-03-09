@@ -1,10 +1,85 @@
-## Personal E-Commerce Project
+## MEAN Stack E-Commerce Project
 
 [Back Home](README.md)
 
-### Description
+### Non-Technical Description
+I created an e-commerce web application where non-admin users can browse a list of products, view their details, and add the products to their shopping cart. Admin users can upload, edit, and delete the products displayed on the website from an exclusive admin dashboard. Visitors have the option to create an account but it is not required. This was a feature I felt strongly about. I wanted to make site access convenient for the ordinary user.
 
-For my personal project, I wanted to create an e-commerce web application. This web application is being developed with the MEVN stack. The web application would feature a registration/login page upon site entry (this is currently in production, front-end for this and routing for this needs to be completed), where entry to the web application is validated with bcrypt, CSRF Tokens, and mitigation of XSS. Users are allowed the option register on first entry into the site, or to proceed as a guest. Cookies have been implemented so that users will not have to have log in again on each site entry. In the future, Passport.js will be used to allow registration/sign up with Facebook or Twitter, Google Plus, etc. From here users are routed to a home page that displays various products and their respective titles, prices, and images. This serves as a “browsing” page. In the future, this page will contain sorting options to sort products by price, manufacturer, etc, and a search bar to allow for looking for items with specific keywords. The Product item components currently have an add to cart option. And upon clicking on a product, you will be directed to the products details page via VueRouter. This page contains details about the product and the option to put the item (in the future a user will be able to specify a quantity) into your cart. At the top of all pages, there contains a nav bar to allow for navigation between the home page/browse page, account page, and cart page. The nav bar was created again with VueRouter. The cart page contains a list of all of the items that the user has selected to be in their cart. Items are listed with their title, price (and in the future, quantity) and the option to remove from cart. Upon checkout, users must re-login to ensure security, and payment is facilitated via stripe (Paypal). In the future there are plans to include There are plans in the future to include shipping tracking information and confirmation e-mails.
+# Deployment
+This application was deployed using Heroku's cloud web hosting, mLab's cloud database service, and AWS S3 bucket cloud file storage for image file storage
+
+# Features of the Application:
+
+  Navbar
+  
+ * Contains links to the different pages within the application 
+  
+ * Navbar links differ depending on if the user is an administrator or not an administrator of if the user is logged in or not
+    
+ * The adminstrator account functionality is a superset of user account functionality
+    
+ * Contains a counter next to the cart link to let users know how many items are in their cart instantly
+    
+  User Functionality:
+  
+    Pages/UI Routes
+    
+      Home
+      
+        * Product list
+        
+        * Each product card shows the product image, price, name
+        
+        * Each card also contains an Add/Remove from cart button
+        
+        * Each card also contains a view more button to view more product details
+        
+      Registration
+      
+        * Registration form
+        
+      Login
+      
+        * Login form
+        
+      Profile
+      
+        * Displays account information such as name, username, and email
+        
+      Product Details
+      
+        * Displays product image, name, description, and price
+        
+        * Add/Remove from cart button
+        
+      Cart
+      
+        * Allows users to view all of the items that they have slected for their cart
+        
+        * Allows users to increase/decrease the quantity of the items in their cart
+        
+        * Remove product button to remove that item from the cart completely
+        
+        
+  
+  Administrator/Manager Additional Functionalities:
+  
+      Dashboard
+      
+        * Hub for navigating to editing, creating, and deleting products
+        
+        * Contains an add product button and an edit product button to route the user to the appropriate form
+        
+        * Can delete products and their data from the database with the click of the remove product button
+        
+      Add Product
+      
+        * Add product form
+        
+      Edit Product
+      
+        * Edit product form
+        
 
 ```markdown
 Home Page:
@@ -67,36 +142,30 @@ Add Product:
 ```
 ![](MEVN_estore_pics/addproduct.PNG)
 
-Note: I did not include pictures of the Login/Registration Page because the template I used is not mine and is currently only being used to test Login/Registration functionalities. This component will be updated in the future.
 
-### Lessons Learned / Skills & Knowledge Gained
+### Lessons Learned / Skills & Knowledge Gained 
 
-I gained firsthand experience in many aspects of Full-stack development. 
+The completion of this project was a long time coming. I first had the idea for this project in the Summer of 2018. At the time, I had decided that I wanted to work with the MEVN JavaScript stack. This choice was fairly arbitrary, I had only selected it because I found a tutorial that I thought would be helpful. In the end, I did not end up using this tutorial but I liked the design of the appliaction within the tutorial and I wanted to keep the design with some changes. I gained experience with JavaScript, Node, MongoDB, and Vue through my initial efforts on the application that summer. However, I did not come close to finishing the application. If I had consistently kept at it, I would have been able to finish the application in the following months during my free time from school. However, I am not sure that I had a strong enough grasp on the high level concepts of web application design and architecture, so I don't know for sure how long it would have taken me only working on it sparingly. 
 
-The process of starting a project from scratch that encompasses so many different components was something that I underestimated. This required a great deal of thought and planning in the beginning stages of development. I decided that I wanted to develop using one of the MERN, MEVN, or MEAN stacks because of their wide use and popularity. I figured that learning one of these stacks would be very applicable to future projects. One of the futures of the design of the website that I was excited about was the fact that I would be creating a single page application. I wanted to make sure that my development choices and specified requirements were chosen with the goal of elevating user experience. I knew a single page application would mitigate interruptions and elevate user experience. With my primary goal determined, I decided that I wanted to take the most efficient path to that goal considering what research I had done. Because of this I decided a good framework to use for this with a small learning curve would be Vue,js.
+Round two of work on this application began again in the summer of 2019. I continued with the MEVN stack and restarted from scratch on the codebase. I progressed further than I had the previous summer, but I was not able to put my full focus on the project this go around because I was preoccupied with a summer course and the start of development for my senior design project. i put my senior design project at a higher priority because I did not want to let my team down and I believe that required coursework should come first. I continued work on the project through the fall of 2019, but I was never happy with the amount of time I spent on the project. However, I don't believe that this was the reason why I had not successfully completed the project.
 
-Before development, I knew that I would need the obvious libraries such as Vue Router, and webpack, etc. However, during development, I discovered that I would also need libraries such as VueX for state management, Passport.js for authentication with Facebook or Twitter, and Stripe for secure payment with Paypal to name a few. Here is a list of some of the technologies that were used during development:
+Fast forwarding to my December 2019 graduation, (approximately a whole 18 months after starting the project) I began applying for jobs but I didn't have any strong personal projects to put on my portfolio. And this project had been on my mind. A personality trait that is ingrained in me (that I can't stop myself from doing it unless I really try), is that the longer, and with the greater intensity I work on a problem, the desire to complete the task increases. In this scenario, I had just managed to let other things take my attention away from the project. I would also say that I never truly put intensity into the completion of the project.
 
-MongoDB, Express.js, Vue.js, Node.js, Vuex, Vue Router, axios, bcrypt, Bluebird, Bootstrap, Multer, Passport.js, Webpack, JQuery, UUID, Fs, Cors, eslint, nodemon
+As I was searching through web development jobs, I found that there were not very many jobs hiring for the JavaScript stack, and there were very many hiring for Java EE and ASP.NET frameworks. Upon discovering this, I felt really foolish for realizing this so late. I didn't have any practice with either framework. So I decided that I really wanted to dive in gain experience with one of the two and implment the E-Commerce project that I had failed to complete for the last year and a half to accomplish two things at once. I decided to go with the Microsoft stack for two reasons. I had seen from several sources online that it might be a little bit easier to go with ASP.NET first. Also, I didn't know much of anything about C#, and I really prefer to have some type of understanding of many things rather than a specialized understanding of a few things. I had already used Java quite heavily at Iowa State so I was familiar with it. It wasn't until I started studying C# that I realized how similar the two languages are. Before studying C# I didn't even know that it was an object oriented language.
 
-Another thing that I found rewarding about this project was the aspect of problem solving on my own. I didn’t have anyone personally to ask for help other than the internet (which is a pretty good resource). So this project taught me a lot about the process of problem solving on my own and self-learning. I felt that this was very important because these are both powerful skills. I enjoy problem solving so thankfully this was an enjoyable process.
+So I started diving into the ASP.NET developer course on LinkedIn learning. This course covered a lot of ground and helped my get my footing. The RESTful API sub-course was 4 hours and was the turning point in my understanding of the high level concepts associated with web development such as architectures, and how data flows through the back-end of an application. This was something that I was very lacking previously and was holding me back in my attempts to develop my project in the past. ASP.NET conventions use a very structured aproach towards development and this was critical building my understanding of how to develop a web application. I never used these concepts in my development with the JavaScript stack and I was inept because of it.
 
-Another skill that improved during the development of this project were time-management skills. Particularly, in the realm of pushing myself to work on something that doesn’t involve a grade or a deadline. This also relates to self-accountability, sticking to my word when I tell myself that I am going to work on this project.
+Now that I realized this I was excited to 
 
-Something that struck me as I pushed through development was how much more research I could have done before choosing my stack and choosing what supporting libraries I would be using to fulfill functionality. Along with this would be spending more time learning the fundamentals of the Vue.js and Express frameworks. In the future, I will spend much more time doing research before I start coding away. I believe that this will make me a much more efficient worker.
+understanding things from a high level view first
+implementing too many features
+not enough knowledge
 
-Something else that struck me during the development of this project was the importance of assigning priority to the development order of all the different components of the project. I noticed that there were advantages, for example, to starting on routing the components before developing the components themselves. I think that this is something that in the future, I will give more thought to before starting development.  
 
 
 ### What Went Wrong
 
-Unfortunately, the progress of this project has been halted. As neared the last month or two of the fall school semester, I had to focus my efforts on my senior design project and online course, as well as preparing my resume, LinkedIn, and portfolio. However, that does not mean I don’t intend to finish this project in my free time in the future. 
 
-There were a few points while working on this project where I was stuck on an issue, for example uploading image file was a bit of a struggle. Eventually the multer middleware solved this problem. That is until I ran into another issue. The issue that I was having before I had to put the project on hold is that Chrome doesn’t allow its browser to load local resources. 
-
-I should have done more research towards what technologies would be best to implement the functionalities of the project. Some of the libraries that I did not use could have made implementation much more efficient but some of these libraries were exclusively used with React or Angular, or a database that wasn’t MongoDB etc.
-
-I should have worked on some things in a different order, for example I wish that I would have started with the login/registration page first, instead of the home page, and cart pages, that way I would not have had to reroute the application to have the login/registration page as the “entry” point.
 
 
 ### What Went Right
