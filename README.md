@@ -10,6 +10,8 @@
 
 [Personal E-Commerce Project](eStore.md)
 
+[Personal Crypto Currency Exhange Simulator Project](MEAN.md)
+
 [Simple Static Anti Virus](AntiVirus.md)
 
 
