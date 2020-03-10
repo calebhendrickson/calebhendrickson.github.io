@@ -16,66 +16,29 @@
 
 
 ```markdown
-Home Page:
+Home Page (Not Logged In):
 ```
-![](MEVN_estore_pics/homepage.PNG)
-
+![](ASPNET-Krypto-Pics/home_page_logged_in.PNG)
 
 ```markdown
-Home Page (Adding to Cart):
+Home Page (Logged In):
 ```
-![](MEVN_estore_pics/homepage_addtocart.PNG)
-
+![](ASPNET-Krypto-Pics/home_page_not_logged_in.PNG)
 
 ```markdown
-Home Page (Removing From Cart):
+Register Page:
 ```
-![](MEVN_estore_pics/homepage_removecart.PNG)
-
+![](ASPNET-Krypto-Pics/register_page.PNG)
 
 ```markdown
-Cart Page:
+Login Page:
 ```
-![](MEVN_estore_pics/cartpage.PNG)
+![](ASPNET-Krypto-Pics/login_page.PNG)
 
 ```markdown
-Empty Cart:
+Account/Portfolio Page:
 ```
-![](MEVN_estore_pics/emptycart.PNG)
-
-```markdown
-Product Details Page:
-```
-![](MEVN_estore_pics/product_details.PNG)
-
-
-```markdown
-Account Page:
-```
-![](MEVN_estore_pics/account.PNG)
-
-
-```markdown
-Admin Page:
-```
-![](MEVN_estore_pics/admin.PNG)
-
-
-```markdown
-Show Product:
-```
-![](MEVN_estore_pics/showproduct.PNG)
-
-```markdown
-Edit Product:
-```
-![](MEVN_estore_pics/editproduct.PNG)
-
-```markdown
-Add Product:
-```
-![](MEVN_estore_pics/addproduct.PNG)
-
+![](ASPNET-Krypto-Pics/account_page.PNG)
 
 
 ## Background
