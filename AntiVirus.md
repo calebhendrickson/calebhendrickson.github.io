@@ -1,3 +1,4 @@
+# Description
 
 This is a simple static anti-virus that performs more as a static virus detector. This project was created in Visual Studio with Windows Forms and C#.
 
