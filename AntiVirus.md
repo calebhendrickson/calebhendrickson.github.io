@@ -13,15 +13,15 @@ Immediate Future Plans: In the future I plan on upgrading from md5 hashing to on
 ```markdown
 Login Page:
 ```
-![](SE329-my-project-pics/login.PNG)
+![](Anti_Virus_Pics/anti-virus-home.PNG)
 
 
-WHAT WENT RIGHT
+## What Went Right
 
 I really enjoyed this project becasue I have always had an interest in security related concepts. I gained experience with Hashing files and also with Windows forms. It was refreshing to try something that wasn't one of the usual web development related projects that I am usually doing
 
 This project is a great starting point to iterate on. Development on this project went very smoothly and quickly.
 
-WHAT WENT WRONG
+## What Went Wrong
 
 I haven't actually downloaded any of the virus files that exist within my database to do a controlled test. I have scanned a a few big folders on my computer and found nothing so far. I want to test this project on a vm and on my parents ancient pc. Maybe it will have a positive effect there and find a virus. 
