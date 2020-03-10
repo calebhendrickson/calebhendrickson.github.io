@@ -168,30 +168,29 @@ You must understand things from a high level before digging around in the mud an
 
 ### What Went Wrong
 
-I need to start incorporating stronger testing practices within my development processes. For testing along the way, I used a manual functional testing approach throughout this project.
+ * I need to start incorporating stronger testing practices within my development processes. For testing along the way, I used a manual functional testing approach throughout this project.
 
 
 ### What Went Right
 
-I used an agile development appraochapproach with myself and it was benficial
+ * I used an agile development appraochapproach with myself and it was benficial
 
-I learned a lot about learning and what my personal pitfalls are when it comes to learning
+ * I learned a lot about learning and what my personal pitfalls are when it comes to learning:
 
-1. Don't be lazy/"in a hurry"
+    1. Don't be lazy/"in a hurry"
 
-2. Observant/open your eyes/be ready to learn
+    2. Observant/open your eyes/be ready to learn
 
-3. humility/be ready to learn/realiz you aren't that good and you can always and must improve if you don't want to be left behind  and stay on the same level forever
+    3. humility/be ready to learn/realiz you aren't that good and you can always and must improve if you don't want to be left behind  and stay on the same level forever
 
+ * I am very happy with the technologies I chose for development and deployment and what I learned about these technologies.
 
-I am satisfied with my stack, framework, and library choices for this project and I am very happy with what I have learned about these tools and the outcome of this project.
+ * I learned about my work process and how I can improve it in the future.
 
-I am very happy with what I learned about my work process and how I can improve it and myself in the future.
+ * My use of problem-solving skills.
 
-I am very happy with the refinement my problem-solving skills and the knowledge and understanding that I gained on this project.
+ * The development, deloyment, and maintenance of the application was and is 100% free.
 
-The deelopment, deloyment, and maintenance of the application is 100% free.
-
-Had fun pursuing a project that I see value in and interests me.
+ * Had fun pursuing a project/concept of a project that I see value in and interested me.
 
 
