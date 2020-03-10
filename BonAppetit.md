@@ -45,29 +45,32 @@ There were several challenges that come with working in a team that I did not re
 ### Scheduling
 Trying to coordinate 4 members with nearly completely different schedules to meet was not easy as one member was working part time and another member lived 35 minutes away from the university. This left most of the in-person meeting up to myself and one other member of the team who lived nearby. Thankfully I was able to make these meetings because there was a lot of progress made debugging the interface between my computer and android studio, the IDE for the application. This was great experience for me because I was not even aware of the possible headaches that can come with debugging interfaces. 
 
+
 ### Picking Technologies for Development
 Eventually we came to realize that my computer had an incompatibility with android studio and that I would have to rent a computer from the university. Unfortunately, this caused quite a delay for me towards getting into development and contributing to the codebase of the project. 
 
+
 Along with this, I gained my first experience in choosing technologies to work with. Our group had a strong idea for an app to develop, but we had limited experience in our IDE. I would say that the IDE was probably the best tool for the work that we wanted to accomplish, but we were lacking the skillsets needed to complete the project initially and this led to a learning curve that ate up a lot of development time at the start of the project.
+
 
 ### What Went Wrong
 
-We lost a group member partway through the semester because he dropped the course; however, we were not aware for quite some time due to being unable to get in touch with him. 
+ * We lost a group member partway through the semester because he dropped the course; however, we were not aware for quite some time due to being unable to get in touch with him. 
 
-I had never worked with android studio or even Git before this course. There was also one other member of our 3-member team that had not worked with Git before either, so there were a couple code pushing errors during the course of our project. The initial learning curve of learning the technology ate up a lot of time and hindered our progress.
+ * I had never worked with android studio or even Git before this course. There was also one other member of our 3-member team that had not worked with Git before either, so there were a couple code pushing errors during the course of our project. The initial learning curve of learning the technology ate up a lot of time and hindered our progress.
 
-Allocating the resources to complete our project was tough, when the project began, none of the team members had any experience with Android Studio, PHP, volley, or MySQL.
+ * Allocating the resources to complete our project was tough, when the project began, none of the team members had any experience with Android Studio, PHP, volley, or MySQL.
 
-We were unable to complete full functionality because we did not populate our database with recipes scraped from google. This would have been a whole other project on its own and we did not have nearly enough time to include this feature with only 3 developers and one semester working with new technologies.
+ * We were unable to complete full functionality because we did not populate our database with recipes scraped from google. This would have been a whole other project on its own and we did not have nearly enough time to include this feature with only 3 developers and one semester working with new technologies.
 
 ### What Went Right
 
-This was a seminal experience for me and group software development. I gained loads of experience with critical technologies and gained the important experience of working in a group and what working in that group environment entails.
+ * This was a seminal experience for me and group software development. I gained loads of experience with critical technologies and gained the important experience of working in a group and what working in that group environment entails.
 
-I learned about how the back-and-forth interactions between team members can influence the direction of the entire project. Especially when it comes down to deciding on what technologies to choose or how to implement a technology.
+ * I learned about how the back-and-forth interactions between team members can influence the direction of the entire project. Especially when it comes down to deciding on what technologies to choose or how to implement a technology.
 
-We completed the core functionality of our project and were able to release a working product by the deadline.
+ * We completed the core functionality of our project and were able to release a working product by the deadline.
 
-Although we were unable to implement our original idea, we were able to take what functionalities we had and demonstrate their was value and utility in what we had completed.
+ * Although we were unable to implement our original idea, we were able to take what functionalities we had and demonstrate their was value and utility in what we had completed.
 
 
