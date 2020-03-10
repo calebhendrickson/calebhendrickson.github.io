@@ -40,19 +40,24 @@ Lead Software Developer for Guitar Multi-Effects Pedal Device (Senior Project â€
 Skills:
 
 
-Languages: JavaScript, Java, C, C++, C#, SQL, HTML
+Languages: 
+ * JavaScript, Java, C, C++, C#, SQL, HTML
 
 
-Frameworks: Angular, Express, ASP.NET Core
+Frameworks: 
+ * Angular, Express, ASP.NET Core
 
 
-Concepts: Agile, Scrum, Web APIs, JSON, REST, Object-Oriented Programming, Client-Server Architecture, Layered Architecture
+Concepts: 
+ * Agile, Scrum, Web APIs, JSON, REST, Object-Oriented Programming, Client-Server Architecture, Layered Architecture
 
 
-Tools: Git, Eclipse, Visual Studio, Node.js, Postman
+Tools: 
+ * Git, Eclipse, Visual Studio, Node.js, Postman
 
 
-Databases: SQL Server, MongoDB
+Databases: 
+ * SQL Server, MongoDB
 
 
 Portfolio:
