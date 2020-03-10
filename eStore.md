@@ -2,7 +2,7 @@
 
 [Back Home](README.md)
 
-### Non-Technical Description
+### Description
 I created an e-commerce web application where non-admin users can browse a list of products, view their details, and add the products to their shopping cart. Admin users can upload, edit, and delete the products displayed on the website from an exclusive admin dashboard. Visitors have the option to create an account but it is not required. This was a feature I felt strongly about. I wanted to make site access convenient for the ordinary user.
 
 # Deployment
