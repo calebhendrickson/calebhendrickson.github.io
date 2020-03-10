@@ -15,7 +15,7 @@
 [Simple Static Anti Virus](AntiVirus.md)
 
 
-#### School-Related Projects:
+#### Some of my School-Related Projects:
 
 [Guitar Multi-Effects Pedal (Senior Design Project)](SeniorDesign.md)
 
