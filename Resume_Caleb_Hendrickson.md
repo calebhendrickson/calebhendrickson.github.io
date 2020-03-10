@@ -60,11 +60,11 @@ Databases:
  * SQL Server, MongoDB
 
 
-Portfolio:
+#### Portfolio:
 https://github.com/calebhendrickson/calebhendrickson.github.io/blob/master/README.md
 
 
-Github Repositories: 
+#### Github Repositories: 
 https://github.com/calebhendrickson 
 
 
