@@ -189,7 +189,7 @@ The big things I learned from this experience (I will take these ideas with me f
 
  * Product list sort (Home page)
   
- * Prouct list search (Home page)
+ * Product list search (Home page)
   
  * Simulated purchase ( Cart page) - no real money
   
