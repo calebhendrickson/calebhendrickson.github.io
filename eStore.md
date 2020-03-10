@@ -84,53 +84,54 @@ This application was deployed using Heroku's cloud web hosting, mLab's cloud dat
 ```markdown
 Home Page:
 ```
-![](MEVN_estore_pics/homepage.PNG)
+![](MEAN-Stack-Pics/product-home-page.PNG)
 
 
 ```markdown
-Home Page (Adding to Cart):
+Home Page (Sorted by Price Descending):
 ```
-![](MEVN_estore_pics/homepage_addtocart.PNG)
-
+![](MEAN-Stack-Pics/product-home-page-sorted.PNG)
 
 ```markdown
-Home Page (Removing From Cart):
+Registration Page:
 ```
-![](MEVN_estore_pics/homepage_removecart.PNG)
-
-
-```markdown
-Cart Page:
-```
-![](MEVN_estore_pics/cartpage.PNG)
+![](MEAN-Stack-Pics/register_page.PNG)
 
 ```markdown
-Empty Cart:
+Login Page:
 ```
-![](MEVN_estore_pics/emptycart.PNG)
+![](MEAN-Stack-Pics/login_page.PNG)
+
+```markdown
+Product Mouse Over:
+```
+![](MEAN-Stack-Pics/product_page_mouse_over.PNG)
 
 ```markdown
 Product Details Page:
 ```
-![](MEVN_estore_pics/product_details.PNG)
+![](MEAN-Stack-Pics/product_view_page.PNG)
 
+```markdown
+Cart Counter:
+```
+![](MEAN-Stack-Pics/cart_counter.PNG)
+
+```markdown
+Cart Page:
+```
+![](MEAN-Stack-Pics/cart_page.PNG)
 
 ```markdown
 Account Page:
 ```
-![](MEVN_estore_pics/account.PNG)
+![](MEAN-Stack-Pics/account_page.PNG)
 
 
 ```markdown
-Admin Page:
+Admin Dashboard:
 ```
-![](MEVN_estore_pics/admin.PNG)
-
-
-```markdown
-Show Product:
-```
-![](MEVN_estore_pics/showproduct.PNG)
+![](MEAN-Stack-Pics/admin_dashboard.PNG)
 
 ```markdown
 Edit Product:
