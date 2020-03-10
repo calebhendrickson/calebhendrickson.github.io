@@ -11,7 +11,7 @@ Immediate Future Plans: In the future I plan on upgrading from md5 hashing to on
 
 
 ```markdown
-The Windows Forms Application Interface:
+The Application Interface:
 ```
 ![](Anti_Virus_Pics/anti-virus-home.PNG)
 
