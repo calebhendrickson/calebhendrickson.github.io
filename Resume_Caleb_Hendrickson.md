@@ -8,16 +8,16 @@ Phone: 515-408-3170
 Email: chendric0312@gmail.com
 ______________________________________________________________________________
 
-Software Engineer
+#### Software Engineer
 
 As a recent software engineering graduate, I am seeking a web development position with a company that values creativity, communication, & analytical/problem-solving skills. I want to put my best effort forth and contribute my skill sets for mutual benefit.
 
-Education:
+#### Education:
 
 Iowa State University â€“ Ames, IA
 Bachelor of Science in Software Engineering (BSSE), 12/19
 
-Projects:
+#### Projects:
 
 Developer for E-Commerce Store Web Application (Personal Project)
  * Purpose: Hone my skills with MEAN and full-stack development
@@ -37,7 +37,7 @@ Lead Software Developer for Guitar Multi-Effects Pedal Device (Senior Project â€
  * Required use of leadership and effective communication in group-oriented work setting
 
 
-Skills:
+#### Skills:
 
 
 Languages: 
