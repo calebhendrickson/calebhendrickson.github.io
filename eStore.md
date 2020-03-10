@@ -185,6 +185,41 @@ The big things I learned from this experience (I will take these ideas with me f
  * Had fun pursuing a project/concept of a project that I see value in and interested me.
 
 
+# Future Features:
+
+ * Product list sort (Home page)
+  
+ * Prouct list search (Home page)
+  
+ * Simulated purchase ( Cart page) - no real money
+  
+ * Eventually create a real payment system (Cart page)
+  
+ * Order History
+  
+ * Order tracking
+  
+ * Email confirmation upon registration or purchase
+  
+ * Password retrieval using email
+  
+ * Verification of email
+  
+ * Multi image product listings
+  
+ * Better styling
+  
+ * Fix UI so that it works on mobile
+  
+ * Facebook, Google+, etc. login
+  
+ * Increased Security
+  
+ * & many more to be determined
+   
+Future plans also include refinement to the project code and better code commenting/documentation
+
+
 ### Detailed Backstory
 
 The completion of this project was a long time coming. I first had the idea for this project in the Summer of 2018. At the time, I had decided that I wanted to work with the MEVN JavaScript stack. This choice was fairly arbitrary, I had only selected it because I found a tutorial that I thought would be helpful. In the end, I did not end up using this tutorial but I liked the design of the appliaction within the tutorial and I wanted to keep the design with some changes. I gained experience with JavaScript, Node, MongoDB, and Vue through my initial efforts on the application that summer. However, I did not come close to finishing the application. If I had consistently kept at it, I would have been able to finish the application in the following months during my free time from school. However, I am not sure that I had a strong enough grasp on the high level concepts of web application design and architecture, so I don't know for sure how long it would have taken me only working on it sparingly. 
