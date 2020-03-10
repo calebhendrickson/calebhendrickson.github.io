@@ -136,12 +136,12 @@ Admin Dashboard:
 ```markdown
 Edit Product:
 ```
-![](MEVN_estore_pics/editproduct.PNG)
+![](MEAN-Stack-Pics/admin_edit_page.PNG)
 
 ```markdown
 Add Product:
 ```
-![](MEVN_estore_pics/addproduct.PNG)
+![](MEAN-Stack-Pics/admin_add_page.PNG)
 
 
 ### Lessons Learned / Skills & Knowledge Gained 
