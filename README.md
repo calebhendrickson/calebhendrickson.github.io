@@ -1,9 +1,5 @@
 ## Welcome to Caleb Hendrickson's Portfolio
 
-### Resume:
-
-[Caleb's Resume](Resume_Caleb_Hendrickson.md)
-
 ### Project List:
 
 #### Projects done on my own time:
