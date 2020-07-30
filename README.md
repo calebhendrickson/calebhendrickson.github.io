@@ -4,9 +4,9 @@
 
 #### Projects done on my own time:
 
-[Personal E-Commerce Project](eStore.md)
+[E-Commerce Project](eStore.md)
 
-[Personal Crypto Currency Exhange Simulator Project](ASP.NET-Core-Web-App.md)
+[Crypto Currency Exhange Simulator Project](ASP.NET-Core-Web-App.md)
 
 [Simple Static Anti Virus](AntiVirus.md)
 
