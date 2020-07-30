@@ -1,4 +1,4 @@
-## Welcome to Caleb Hendrickson's Portfolio
+## Welcome to Caleb Hendrickson's Project Portfolio
 
 ### Project List:
 
